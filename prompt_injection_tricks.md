@@ -655,7 +655,7 @@ The attacker gets a recurring natural-language control channel.
 
 [^etr-openhands]: Johann Rehberger, "OpenHands and the Lethal Trifecta: How Prompt Injection Can Leak Access Tokens," Embrace The Red, August 9, 2025. https://embracethered.com/blog/posts/2025/openhands-the-lethal-trifecta-strikes-again/
 
-[^etr-copilot-instructions]: Johann Rehberger, "GitHub Copilot Custom Instructions and Risks," Embrace The Red, April 6, 2025. https://embracethered.com/blog/posts/2025/github-copilot-custom-instructions-and-risks/
+[^etr-copilot-instructions]: Johann Rehberger, "GitHub Copilot Custom Instructions and Risks," Embrace The Red, April 6, 2025. https://embracethered.com/blog/posts/2025/github-custom-copilot-instructions/
 
 [^etr-kiro]: Johann Rehberger, "AWS Kiro: Arbitrary Code Execution via Indirect Prompt Injection," Embrace The Red, August 26, 2025. https://embracethered.com/blog/posts/2025/aws-kiro-aribtrary-command-execution-with-indirect-prompt-injection/
 
